@@ -1,0 +1,41 @@
+/*HEADER*/
+.logo {
+    width: 10rem;
+}
+
+.color {
+    background-color: #F4BEE2;
+}
+
+.fuentes {
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    padding-top: 5rem;
+    text-transform: uppercase;
+}
+
+
+/* MAIN */
+
+
+/*Carrito*/
+
+.imagen {
+    width: 15rem;
+    justify-content: center;
+    padding-bottom: 5rem;
+}
+
+.contenedorCarrito {
+    justify-content: center;
+}
+
+.botonCarrito {
+    justify-content: center;
+}
+
+/* FOOTER */
+
+.barraColor {
+    background-color: #F4BEE2;
+}
